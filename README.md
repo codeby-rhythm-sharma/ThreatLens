@@ -99,7 +99,6 @@ The scoring values are educational heuristics and are not intended to represent 
 URL: https://google.com
 
            ANALYSIS RESULT
-========================================
 
 URL          : https://google.com
 Threat Score : 0/100
@@ -109,9 +108,8 @@ Verdict      : LOW RISK
 
 URL: http://secure-login-verify123.com/account
 
-========================================
+
            ANALYSIS RESULT
-========================================
 
 URL          : http://secure-login-verify123.com/account
 Threat Score : 45/100
@@ -121,9 +119,9 @@ Verdict      : SUSPICIOUS
 
 URL: http://192.168.1.25/login
 
-========================================
+
            ANALYSIS RESULT
-========================================
+
 
 URL          : http://192.168.1.25/login
 Threat Score : 65/100
