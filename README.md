@@ -81,13 +81,14 @@ ThreatLens follows a simple analysis pipeline:
 
 ThreatLens uses predefined heuristic rules to assign risk points to detected indicators.
 
-Indicator	Score
-URL exceeds configured length	+20
-URL does not use HTTPS	+15
-Suspicious keyword detected	+20
-Suspicious @ symbol detected	+25
-Numeric pattern detected	+10
-IP address pattern detected	+20
+| Indicator | Score |
+|-----------|------:|
+| URL exceeds configured length | +20 |
+| URL does not use HTTPS | +15 |
+| Suspicious keyword detected | +20 |
+| Suspicious `@` symbol detected | +25 |
+| Numeric pattern detected | +10 |
+| IP address pattern detected | +20 |
 
 The final score is capped at 100.
 
