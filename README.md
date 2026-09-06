@@ -139,7 +139,7 @@ Verdict      : HIGH RISK
 - String Processing
 - Git & GitHub
 
-📁 Project Structure
+## 📁 Project Structure
 ```
 ThreatLens/
 │
