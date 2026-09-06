@@ -155,12 +155,13 @@ ThreatLens/
 Before running ThreatLens, make sure Java JDK 21 or later is installed.
 
 Check your Java installation:
-
 java -version
 
 Check the Java compiler:
 
+```bash
 javac -version
+
 🚀 Setup & Installation
 1. Clone the repository
 git clone https://github.com/codeby-rhythm-sharma/ThreatLens.git
