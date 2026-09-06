@@ -39,7 +39,6 @@ ThreatLens evaluates these characteristics using a **rule-based detection system
 - ⚡ Lightweight and easy to execute
 
 ---
-
 ## ⚙️ How It Works
 
 ThreatLens follows a simple analysis pipeline:
