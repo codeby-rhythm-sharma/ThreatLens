@@ -158,8 +158,6 @@ Check your Java installation:
 java -version
 
 Check the Java compiler:
-
-```bash
 javac -version
 
 🚀 Setup & Installation
