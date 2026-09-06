@@ -129,14 +129,15 @@ URL          : http://192.168.1.25/login
 Threat Score : 65/100
 Verdict      : HIGH RISK
 
-🛠️ Technology Stack
-Java 21
-Java Scanner
-Regular Expressions
-Arrays
-Conditional Logic
-String Processing
-Git & GitHub
+## 🛠️ Technology Stack
+
+- Java 21
+- `Scanner`
+- Regular Expressions
+- Arrays
+- Conditional Logic
+- String Processing
+- Git & GitHub
 
 📁 Project Structure
 ThreatLens/
