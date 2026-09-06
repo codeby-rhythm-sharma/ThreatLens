@@ -207,19 +207,18 @@ Therefore, the generated score should be considered a preliminary heuristic asse
 
 Possible future improvements include:
 
-🔐 Integration with threat-intelligence APIs
-
-🌐 Domain reputation checking
-📅 WHOIS and domain-age analysis
-🔎 DNS analysis
-🔗 Redirect-chain detection
-🛡️ SSL/TLS certificate analysis
-🧩 Advanced URL obfuscation detection
-📂 Batch URL analysis
-📄 JSON/CSV report generation
-🤖 Machine-learning-based URL classification
-🖥️ Graphical or web-based interface
-🎓 Academic Context
+-🔐 Integration with threat-intelligence APIs
+-🌐 Domain reputation checking
+-📅 WHOIS and domain-age analysis
+-🔎 DNS analysis
+-🔗 Redirect-chain detection
+-🛡️ SSL/TLS certificate analysis
+-🧩 Advanced URL obfuscation detection
+-📂 Batch URL analysis
+-📄 JSON/CSV report generation
+-🤖 Machine-learning-based URL classification
+-🖥️ Graphical or web-based interface
+-🎓 Academic Context
 
 ThreatLens was developed as a project for the Programming in Java course.
 
