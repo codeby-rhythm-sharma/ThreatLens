@@ -98,7 +98,6 @@ The scoring values are educational heuristics and are not intended to represent 
 
 URL: https://google.com
 
-========================================
            ANALYSIS RESULT
 ========================================
 
