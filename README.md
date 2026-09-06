@@ -76,7 +76,7 @@ ThreatLens follows a simple analysis pipeline:
       RISK                  RISK
 ```
 
-##📊 Threat Scoring
+## 📊 Threat Scoring
 
 ThreatLens uses predefined heuristic rules to assign risk points to detected indicators.
 
