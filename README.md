@@ -207,8 +207,8 @@ Therefore, the generated score should be considered a preliminary heuristic asse
 
 Possible future improvements include:
 
--🔐 Integration with threat-intelligence APIs
--🌐 Domain reputation checking
+- 🔐 Integration with threat-intelligence APIs
+- 🌐 Domain reputation checking
 -📅 WHOIS and domain-age analysis
 -🔎 DNS analysis
 -🔗 Redirect-chain detection
