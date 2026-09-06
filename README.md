@@ -140,6 +140,7 @@ Verdict      : HIGH RISK
 - Git & GitHub
 
 📁 Project Structure
+```
 ThreatLens/
 │
 ├── src/
@@ -147,6 +148,7 @@ ThreatLens/
 │
 ├── .gitignore
 └── README.md
+```
 
 ## 💻 Requirements
 
