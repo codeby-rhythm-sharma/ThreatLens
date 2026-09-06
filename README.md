@@ -92,7 +92,8 @@ The final score is capped at 100.
 
 The scoring values are educational heuristics and are not intended to represent an industry-standard threat intelligence score.
 
-🧪 Sample Analysis
+## 🧪 Sample Analysis
+
 🟢 Low-Risk URL
 
 URL: https://google.com
@@ -147,7 +148,7 @@ ThreatLens/
 ├── .gitignore
 └── README.md
 
-💻 Requirements
+## 💻 Requirements
 
 Before running ThreatLens, make sure Java JDK 21 or later is installed.
 
@@ -175,7 +176,7 @@ Enter a URL to analyze:
 
 Enter the URL you want to analyze and press Enter.
 
-🧠 Java Concepts Demonstrated
+## 🧠 Java Concepts Demonstrated
 
 ThreatLens applies several fundamental Java programming concepts:
 
@@ -187,7 +188,8 @@ String Manipulation
 Regular Expressions
 User Input using Scanner
 Basic Modular Program Structure
-⚠️ Limitations
+
+## ⚠️ Limitations
 
 ThreatLens is a lightweight, rule-based educational tool.
 
@@ -201,7 +203,7 @@ Does not guarantee that a URL is malicious or safe
 
 Therefore, the generated score should be considered a preliminary heuristic assessment, not a definitive security verdict.
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Possible future improvements include:
 
