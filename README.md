@@ -1,4 +1,4 @@
-# 🛡️ ThreatLens — Cybersecurity Threat Analyzer
+# 🛡️ ThreatLens —               Cybersecurity Threat Analyzer
 
 **ThreatLens** is a Java-based command-line cybersecurity tool designed to analyze URLs for potentially suspicious characteristics and generate an interpretable **threat score from 0 to 100**.
 
