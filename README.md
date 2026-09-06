@@ -42,8 +42,6 @@ ThreatLens evaluates these characteristics using a **rule-based detection system
 ## ⚙️ How It Works
 
 ThreatLens follows a simple analysis pipeline:
-
-```text
              USER INPUT
                  │
                  ▼
@@ -74,7 +72,11 @@ ThreatLens follows a simple analysis pipeline:
         ▼        ▼        ▼
       LOW    SUSPICIOUS   HIGH
       RISK                  RISK
-📊 Threat Scoring
+
+
+---------
+
+##📊 Threat Scoring
 
 ThreatLens uses predefined heuristic rules to assign risk points to detected indicators.
 
